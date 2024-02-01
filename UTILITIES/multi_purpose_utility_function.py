@@ -34,7 +34,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, jaccard_sco
 
 
 import sys, os
-sys.path.append("C:\\Users\\cyb3r53c\\Desktop\\Python Projects\\MYPROJECTS\\new\\Janson\\UTILITIES")
+sys.path.append("UTILITIES")
 
 warnings.filterwarnings('ignore')
 plt.style.use('fivethirtyeight')
