@@ -19,3 +19,7 @@ multi_purpose_utility_function.py (UTILITIES)
 ---------------------------------------------
 brings everything together (gbm_utilities.py, backtester_classifiers.py) to build, optimize and backtest the model
 
+implementation.ipynb (notebooks)
+--------------------------------
+could take days running, depending on the number of assets (symbols) and number of models being trained. After running, a report is generated on the asset with the highest Model Score and the Highest Backtesting Returns
+
